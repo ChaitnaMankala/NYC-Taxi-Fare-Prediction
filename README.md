@@ -11,6 +11,7 @@ This project focuses on predicting taxi fares in New York City using machine lea
 - Evaluate model performance using appropriate metrics
 
 **Dataset**
+
 The dataset includes:
 - Pickup & drop-off coordinates
 - Passenger count
@@ -18,18 +19,22 @@ The dataset includes:
 - Fare amount (target variable)
   
 **Workflow**
+
 **1. Data Preprocessing**
 - Handled missing values and outliers
 - Filtered unrealistic coordinates and fares
 - Converted datetime fields
+
 **2. Feature Engineering**
 - Extracted features like:
   - Hour of day
   - Day of week
   - Calculated trip distance using coordinates
+
 **3. Model Building**
 - Linear Regression
 - Random Forest Regressor
+
 **4. Model Evaluation**
 - RMSE (Root Mean Squared Error)
 - MAE (Mean Absolute Error)
