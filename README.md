@@ -1,6 +1,7 @@
 # NYC Taxi Fare Prediction
 
 **Project Overview**
+
 This project focuses on predicting taxi fares in New York City using machine learning techniques. The goal is to build an accurate regression model that estimates fare prices based on trip details such as distance, pickup/drop-off locations, and timestamps.This project demonstrates end-to-end data science workflow including data preprocessing, feature engineering, model training, and evaluation.
 
 **Objectives**
